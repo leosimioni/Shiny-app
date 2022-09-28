@@ -1,0 +1,13 @@
+name: rshiny
+title: rshiny
+username:
+account: leosimioni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7145916
+bundleId: 6347181
+url: https://leosimioni.shinyapps.io/rshiny/
+when: 1664371341.82326
+lastSyncTime: 1664371341.82327
+asMultiple: FALSE
+asStatic: FALSE
